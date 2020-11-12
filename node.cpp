@@ -1,3 +1,9 @@
+
+//Dhruv Jain
+//11/11/20
+//node.cpp for linked list
+
+
 #include <cstring>
 #include "node.h"
 #include <iostream>

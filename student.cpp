@@ -1,3 +1,10 @@
+//Dhruv Jain
+//11/11/20
+//student.cpp for linked list part 1
+
+
+
+
 #include <cstring>
 #include "student.h"
 #include <iostream>
